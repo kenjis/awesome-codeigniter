@@ -3,6 +3,8 @@ A list of awesome [Codeigniter](http://codeigniter.com) core, helpers, hooks, la
 
 Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
+**Note**: ~~Strike-through~~ means, that this CodeIgniter 2.x resource has not yet been upgraded to 3.0.
+
 ## Contributing
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
