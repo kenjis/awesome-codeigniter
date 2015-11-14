@@ -119,8 +119,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [CodeIgniter-bitly](https://github.com/patrickpopowicz/codeigniter-bitly) - A CodeIgniter library for the bit.ly REST API.
 
 ## ORM
-* [Datamapper ORM](https://github.com/WanWizard/sparks-datamapper) - CodeIgniter Sparks Package for Datamapper ORM.
-* [Gas ORM](https://github.com/toopay/gas-orm) - A lighweight and easy-to-use ORM for CodeIgniter
+* ~~[Datamapper ORM](https://github.com/WanWizard/sparks-datamapper) - CodeIgniter Sparks Package for Datamapper ORM.~~
+* ~~[Gas ORM](https://github.com/toopay/gas-orm) - A lighweight and easy-to-use ORM for CodeIgniter~~
 
 ## Realtime
 * [Codeiginter FB like Chat library](https://github.com/abuzer/ci-chat) - codeigniter facebook chat library.
