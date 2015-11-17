@@ -48,14 +48,14 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Model
 * [CodeIgniter-MY_Model](https://github.com/avenirer/CodeIgniter-MY_Model) - The result of a lengthy tutorial about constructing a MY_Model.
+* [codeigniter-base-model](https://github.com/jamierumbelow/codeigniter-base-model) - CodeIgniter base CRUD model.
 * [CIModelTester](https://github.com/cwingrav/CIModelTester) - An interactive model web interface.
 
 ## CRUD
 * [Grocery CRUD](https://github.com/scoumbourdis/grocery-crud) - CRUD library that creates a full functional.
 * [Grocery CRUD Image](http://www.grocerycrud.com/image-crud) - CRUD Image lbrary by grocerycrud.
-* [codeigniter-base-model](https://github.com/jamierumbelow/codeigniter-base-model) - CodeIgniter base CRUD model.
-* [ci-gen](https://github.com/brainlabs/ci-gen) - Codeigniter CRUD Code Generator With Bootstrap.
-* [ciig](https://github.com/shabeeb/ciig) - Codignator scaffolder for developers.
+* [ci-gen](https://github.com/brainlabs/ci-gen) - CodeIgniter CRUD Code Generator With Bootstrap.
+* [ciig](https://github.com/shabeeb/ciig) - CodeIgnator scaffolder for developers.
 * [iScaffold](https://github.com/tiborsaas/iScaffold) - A CRUD application generator.
 * [Codeigniter CRUD Generator](https://bitbucket.org/harviacode/codeigniter-crud-generator) - CRUD Generator is a simple tool to auto generate MVC.
 
@@ -74,11 +74,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [CodeIgniter-Template](https://github.com/philsturgeon/codeigniter-template) - Template library for CodeIgniter.
 * [CodeIgniter Template Library](https://github.com/jenssegers/codeigniter-template-library) - A template library for Codeigniter.
 * [MY_Controller](https://github.com/lonnieezell/my_controller) - Simple template engine and many convenience features.
-* [Assets](https://github.com/creolab/assets) - Simple assets manager supports LESS, SASS, CoffeeScript.
 
 ## Asset Management
 * [CodeIgniter Minify](https://github.com/ericbarnes/ci-minify) - Minify css and js files in CodeIgniter.
 * [CodeIgniter - minify](https://github.com/slav123/CodeIgniter-minify) - Minify library CSS and JavaScript compression on the fly.
+* [Assets](https://github.com/creolab/assets) - Simple assets manager supports LESS, SASS, CoffeeScript.
 
 ## Testing
 * [ci-phpunit-test](https://github.com/kenjis/ci-phpunit-test/) - An easier way to use PHPUnit with CodeIgniter 3.0.
