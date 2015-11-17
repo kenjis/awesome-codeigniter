@@ -40,8 +40,10 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Module
 * [Modular Extensions - HMVC](https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc) - Modular Extensions makes the CodeIgniter.
 * [CodeIgniter HMVC Modules](https://github.com/jenssegers/codeigniter-hmvc-modules) - Create HMVC modules with this lightweight extension.
+* [CodeIgniter Simple Module](https://github.com/kenjis/codeigniter-simple-module) - A simple module system using CodeIgniter packages.
 
 ## Installer
+* [CodeIgniter Composer Installer](https://github.com/kenjis/codeigniter-composer-installer) - A package to install the offical CodeIgniter (version 3.0.*) with secure folder structure via Composer.
 * [CodeIgniter Installer](https://github.com/mikecrittenden/codeigniter-installer) - A starting point for building an installer on CodeIgniter.
 
 ## Model
