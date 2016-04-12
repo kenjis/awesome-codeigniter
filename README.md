@@ -13,13 +13,10 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [Module](#module)
 * [Installer](#installer)
 * [Model](#model)
-
 * [CRUD](#crud)
 * [ORM](#orm)
 * [NoSQL](#nosql)
-
 * [Templates](#templates)
-
 * [Asset Management](#asset-management)
 * [Testing](#testing)
 * [Profiler](#profiler)
