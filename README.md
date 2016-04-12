@@ -122,6 +122,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Web Services
 * [CodeIgniter Rest Server](https://github.com/chriskacerguis/codeigniter-restserver) - A fully RESTful server implementation for CodeIgniter.
 * [CodeIgniter-REST Client](https://github.com/philsturgeon/codeigniter-restclient) - A RESTful client CodeIgniter library.
+* [A temporary repository for testing](https://github.com/ivantcholakov/codeigniter-restserver-test) - A temporary repository for testing
 * [CodeIgniter-bitly](https://github.com/patrickpopowicz/codeigniter-bitly) - A CodeIgniter library for the bit.ly REST API.
 * [CodeIgniter-Instagram-API](https://github.com/suhindra/CodeIgniter-Instagram-API) -  CodeIgniter library to interact with the Instagram API.
 * [Biostall Google Map API](https://github.com/BIOSTALL/CodeIgniter-Google-Maps-V3-API-Library) - Google Map API.
