@@ -220,6 +220,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [Codeiginter FB like Chat library](https://github.com/abuzer/ci-chat) - CodeIgniter facebook chat library.
 * [Codeigniter Chat](https://github.com/llbbl/codeigniter-chat) - web based chat -- right now just a simple shoutbox.
 * [Simple-realtime-message-SocketIO-NodeJS-CI](https://github.com/moemoe89/Simple-realtime-message-SocketIO-NodeJS-CI) - Simple realtime push message using CodeIgniter, Socket.IO (Node.JS), MySQL.
+* [codeigniter with swool](https://github.com/smalleyes/ciswoole) - codeigniter with swool
 
 ## Web Services
 * [CodeIgniter Rest Server](https://github.com/chriskacerguis/codeigniter-restserver) - A fully RESTful server implementation for CodeIgniter.
