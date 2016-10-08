@@ -41,10 +41,12 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [Modular Extensions - HMVC](https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc) - Modular Extensions makes the CodeIgniter.
 * [CodeIgniter HMVC Modules](https://github.com/jenssegers/codeigniter-hmvc-modules) - Create HMVC modules with this lightweight extension.
 * [CodeIgniter Simple Module](https://github.com/kenjis/codeigniter-simple-module) - A simple module system using CodeIgniter packages.
+* [CodeIgniter Bundle](https://github.com/davidsosavaldes/Codeigniter-Bundle) - CodeIgniter Bundle implements a Modular pattern (MMVC) into Codeigniter Framework. 
 
 ## Installer
 * [CodeIgniter Composer Installer](https://github.com/kenjis/codeigniter-composer-installer) - A package to install the offical CodeIgniter (version 3.0.*) with secure folder structure via Composer.
 * [CodeIgniter Installer](https://github.com/mikecrittenden/codeigniter-installer) - A starting point for building an installer on CodeIgniter.
+* [Codeigniter Global Installer](https://github.com/davidsosavaldes/Codeigniter-Installer) - A Composer global command that installs the latest official CodeIgniter framework.
 
 ## Model
 * [CodeIgniter-MY_Model](https://github.com/avenirer/CodeIgniter-MY_Model) - The result of a lengthy tutorial about constructing a MY_Model.
@@ -69,7 +71,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Templates
 * [CodeIgniter Simple and Secure Twig](https://github.com/kenjis/codeigniter-ss-twig) - Simple Twig integration for CodeIgniter 3.0.
-* [Attire](https://gitlab.com/david-sosa-valdes/ci-attire) - Twig template engine and Assetic asset management framework for CodeIgniter 3.0.
+* [Attire](https://github.com/davidsosavaldes/Attire) - An implementation of Twig template engine and Sprockets-PHP asset manager framework for CodeIgniter 3.0x.
 * ~~[Twiggy](https://github.com/edmundask/codeigniter-twiggy) - Template engine implementation for CodeIgniter.~~
 * [CodeIgniter-Template](https://github.com/philsturgeon/codeigniter-template) - Template library for CodeIgniter.
 * [CodeIgniter Template Library](https://github.com/jenssegers/codeigniter-template-library) - A template library for Codeigniter.
@@ -79,6 +81,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [CodeIgniter Minify](https://github.com/ericbarnes/ci-minify) - Minify css and js files in CodeIgniter.
 * [CodeIgniter - minify](https://github.com/slav123/CodeIgniter-minify) - Minify library CSS and JavaScript compression on the fly.
 * [Assets](https://github.com/creolab/assets) - Simple assets manager supports LESS, SASS, CoffeeScript.
+* [Attire](https://github.com/davidsosavaldes/Attire) - An implementation of Twig template engine and Sprockets-PHP asset manager framework for CodeIgniter 3.0x.
 
 ## Testing
 * [ci-phpunit-test](https://github.com/kenjis/ci-phpunit-test/) - An easier way to use PHPUnit with CodeIgniter 3.0.
@@ -93,6 +96,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## CLI
 * [Cli for CodeIgniter 3.0](https://github.com/kenjis/codeigniter-cli) - A Cli tool for CodeIgniter 3.0.
 * ~~[CodeIgniter-CLI](https://github.com/philsturgeon/codeigniter-cli) - Work with CodeIgniter over the command line.~~
+* [Craftsman-CLI](https://github.com/davidsosavaldes/Craftsman) - CLI for CodeIgniter 3.0 using Symfony Console component. 
 
 ## Authentication and Authorization
 * [Ion Auth 2](https://github.com/benedmunds/CodeIgniter-Ion-Auth) - Simple and Lightweight Auth System.
